@@ -23,9 +23,18 @@ main{
 .menuitem{
 	border: 2px solid black;
 	padding: 10px;
-	width: 318px;
+	width: 250px;
 	display: inline-block;
 	float: left;
+
+}
+.imagens{
+	border: 2px solid black;
+	padding: 3px;
+	width: 250px;
+	display: inline-block;
+	float: left;
+
 }
 
 img{
