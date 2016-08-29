@@ -1,0 +1,43 @@
+div{
+	/*propriedade;valor;*/
+
+	border: 1px solid black;
+
+	margin: auto;
+
+	width: 1024px
+}
+
+header{
+
+	
+}
+
+main{
+	
+	
+	}
+
+.menuitem{
+	border: 1px solid black;
+	padding: 10px;
+	width: 200px;
+	display: inline-block;
+	float: left;
+}
+
+img{
+
+}
+
+footer{
+	border: 1px solid black;
+	position: relative;
+	height: 60px;
+}
+
+.twitter{
+	position: absolute;
+	top: 10px;
+	right: 0px;
+}
