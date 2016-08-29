@@ -3,9 +3,9 @@ div{
 
 	border: 1px solid black;
 
-	margin: auto;
+	margin: 0px;
 
-	width: 1024px
+	width: 1375px;
 }
 
 header{
@@ -14,14 +14,17 @@ header{
 }
 
 main{
-	
-	
+	border: 1px solid black;
+	padding: 10px;
+	width: 1350px;
+	height: 500px;
+
 	}
 
 .menuitem{
-	border: 1px solid black;
+	border: 2px solid black;
 	padding: 10px;
-	width: 200px;
+	width: 318px;
 	display: inline-block;
 	float: left;
 }
