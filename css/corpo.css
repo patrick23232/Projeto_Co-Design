@@ -1,7 +1,7 @@
 .cores_texto {
-	width: 70%;
-	color: #3adaff;
-	background-color: #04687F;
+	width: 100%;
+	color: #000000;
+	background-color: #3fe457;
 }
 .cor_link{
 	color: #41FF1F;
@@ -11,8 +11,8 @@
 
 	
 .cor_do_cabecalho {
-	color: #3adaff;
-	background-color: #04687F;
+	color: #00ff00;
+	background-color: #000000;
 }
 
 
