@@ -9,7 +9,7 @@
 	color: #41FF1F;
 	text-decoration: none;
 	font-family: Tahoma;
-;
+
 
 }
 	
@@ -46,6 +46,16 @@ img{
 	border: 2px solid black;
 	padding: 3px;
 	width: 20%;
+	display: inline-block;
+	float: left;
+
+}
+
+.inicio{
+	color: #41FF1F;
+	text-decoration: none;
+	font-family: Tahoma;
+	padding: 7px;
 	display: inline-block;
 	float: left;
 
@@ -88,18 +98,10 @@ main{
 }
 
 section {
-<<<<<<< HEAD
-	/*max-width: 1000px;*/
-	margin: 1em;
 	padding: 1rem;
-	/*position: relative;*/
-=======
-	margin: 0px;
 	position: relative;
 	color: #000000;
 	background-color: #3ff457;
-	
->>>>>>> d0512b052e8d46ec58ffd56ec16b0332a9ff4762
 }
 
 .submenu {
